@@ -35,7 +35,7 @@ function gmParser()
   var directoryService = Components.classes["@mozilla.org/file/directory_service;1"].getService(Components.interfaces.nsIProperties);
   this._transformsDir = directoryService.get("ProfD", Components.interfaces.nsIFile);
   this._transformsDir.append("extensions");
-  this._transformsDir.append("gmail-manager-ng@nedwidek.github.com");
+  this._transformsDir.append("gmail-manager-community@gmail-manager-community.github.com");
   this._transformsDir.append("defaults");
   this._transformsDir.append("transforms");
   

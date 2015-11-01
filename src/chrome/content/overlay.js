@@ -68,7 +68,7 @@ var gmanager_Overlay = new function()
     this._observer.addObserver(this, gmanager_Prefs.NOTIFY_CHANGED, false);
     this._observer.addObserver(this, gmanager_Accounts.NOTIFY_STATE, false);
     
-    const GM_EXTENSION_ID = "gmail-manager-ng@nedwidek.github.com";
+    const GM_EXTENSION_ID = "gmail-manager-community@gmail-manager-community.github.com";
     
     if (Components.classes["@mozilla.org/extensions/manager;1"])
     {

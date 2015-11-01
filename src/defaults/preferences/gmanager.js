@@ -4,7 +4,7 @@
 // Based on Gmail Manager by Todd Long <longfocus@gmail.com>
 
 // Localized description
-pref("extensions.gmail-manager-ng@nedwidek.github.com.description", "chrome://gmanager/locale/gmanager.properties");
+pref("extensions.gmail-manager-community@gmail-manager-community.github.com.description", "chrome://gmanager/locale/gmanager.properties");
 
 // Extension preferences
 pref("extensions.gmanager.debug", false);
