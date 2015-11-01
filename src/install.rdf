@@ -29,6 +29,7 @@ Based on:
 		<em:contributor>Erik Nedwidek</em:contributor>
 		<em:contributor>Todd Long</em:contributor>
 		<em:contributor>BabelZilla.org translation team</em:contributor>
+		<em:translator>Капелька Яда</em:translator>
 		<em:homepageURL>https://github.com/gmail-manager-community/gmail-manager-community</em:homepageURL>
 		<em:iconURL>chrome://gmanager/skin/gmail-icon.png</em:iconURL>
 		<em:optionsURL>chrome://gmanager/content/options/options.xul</em:optionsURL>
@@ -38,7 +39,7 @@ Based on:
 			<Description>
 				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
 				<em:minVersion>3.5</em:minVersion>
-				<em:maxVersion>13.0a1</em:maxVersion>
+				<em:maxVersion>45.0.*</em:maxVersion>
 			</Description>
 		</em:targetApplication>
 		
